@@ -6,7 +6,6 @@ html, body, h1, h2 {
 }
 
 body {
-  height: 100vh;
   font-family: Nunito, sans-serif;
   background: linear-gradient(120deg, #FFEBCD 9%, #FF8B72 91%);
 }
@@ -42,7 +41,6 @@ p {
 }
 
 .features-section {
-  height: 100%;
   background-color: #fff;
   padding: 5.2em 0;
 }
